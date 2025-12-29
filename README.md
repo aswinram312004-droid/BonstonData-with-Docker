@@ -18,8 +18,9 @@ if you use anaconda use -> conda create -p venv python==3.7  -y (yes)
  (or)
 
  use python environment 
- step 1: open terminal 
- step 2: Click launch profile... 
- step 3: Sdd cmd termanal python -m venu venu
- step 4: ENVIRONMENT ACTIVATE
+
+####  1: open terminal 
+#### 2: Click launch profile... 
+#### 3: Sdd cmd termanal python -m venu venu
+#### 4: ENVIRONMENT ACTIVATE
 '''
